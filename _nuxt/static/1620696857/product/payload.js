@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/product", {data:[{},{products:[{id:1,productName:"Product - 1"},{id:2,productName:"Product - 2"}]}],fetch:[],mutations:[]});
